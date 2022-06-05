@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.js": "/static/js/main.9f7524be.chunk.js",
+    "main.js.map": "/static/js/main.9f7524be.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.e55496c6.js",
+    "runtime-main.js.map": "/static/js/runtime-main.e55496c6.js.map",
+    "static/js/2.9c14c878.chunk.js": "/static/js/2.9c14c878.chunk.js",
+    "static/js/2.9c14c878.chunk.js.map": "/static/js/2.9c14c878.chunk.js.map",
+    "index.html": "/index.html",
+    "static/js/2.9c14c878.chunk.js.LICENSE.txt": "/static/js/2.9c14c878.chunk.js.LICENSE.txt",
+    "static/media/erc20.6540b4f4.svg": "/static/media/erc20.6540b4f4.svg",
+    "static/media/eth.40c2d264.svg": "/static/media/eth.40c2d264.svg",
+    "static/media/web3modal-logo.d8a1141a.png": "/static/media/web3modal-logo.d8a1141a.png",
+    "static/media/xdai.64224e1a.png": "/static/media/xdai.64224e1a.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e55496c6.js",
+    "static/js/2.9c14c878.chunk.js",
+    "static/js/main.9f7524be.chunk.js"
+  ]
+}
